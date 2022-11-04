@@ -410,6 +410,10 @@ h6 {
     color: #fff;
   }
 
+  .navbar a:last-child {
+    padding-right: 30px;
+  }
+
   .navbar .dropdown ul {
     display: block;
     position: absolute;
